@@ -8,7 +8,7 @@ let package = Package(
   dependencies: [],
   targets: [
     .target(
-      name: "RxRealm",
+      name: "Hue",
       dependencies: []
     )
   ]
